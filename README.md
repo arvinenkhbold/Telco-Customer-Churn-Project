@@ -1,5 +1,5 @@
 # Telco-Customer-Churn-Project
-This project analyzes internal customer churn data to identify key factors influencing churn at a telecommunications company. I used Python for data preprocessing, exploratory data analysis (EDA), and visualizations, to identify key variables that are driving churn, and developing strategies to alleviate the issue and improve customer retention.
+This project analyzes internal customer data to identify key factors influencing churn at a telecommunications company. I used Python for data preprocessing, exploratory data analysis (EDA), and visualizations, to identify key variables that are driving churn, and developing strategies to alleviate the issue and improve customer retention.
 
 # Importance:
 Customer churn is a significant issue in the highly competitive telecommunications industry. High churn rates not only affect revenue but also increase customer acquisition costs. Retaining existing customers is more cost-effective than acquiring new ones, making churn reduction an important factor in the companys business environment. This project is essential for Telco to maintain its competitive edge by improving customer loyalty and optimizing resource allocation.
